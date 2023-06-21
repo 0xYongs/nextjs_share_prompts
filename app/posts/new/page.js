@@ -8,4 +8,4 @@ const new_post = () => {
     )
 }
 
-export default new_post
+export default new_post;

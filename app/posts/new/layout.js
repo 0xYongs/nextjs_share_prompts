@@ -1,8 +1,8 @@
 import React from 'react'
 
 /*
-    Modify layout of the posts pages by setting this
-    layout file as subfolder to posts.
+    Modify layout of the posts pages by adding this
+    layout file For each subfolder under posts
 
     This presents an oportunity to showcase more
     branding and mantain a neat intuitive display.
@@ -17,4 +17,4 @@ const layout = () => {
     )
 }
 
-export default layout
+export default layout;
